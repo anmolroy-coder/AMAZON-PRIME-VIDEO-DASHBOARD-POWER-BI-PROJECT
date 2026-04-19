@@ -9,7 +9,7 @@
 
 ## KPIs (Key Performance Indicators)
 • Total Titles: 9655  
-• Total Shows: 9684
+• Total Shows: 9684   
 • Total Ratings: 25  
 • Total Genres: 519  
 • Total Directors: 5771  
